@@ -1,0 +1,19 @@
+{
+  "name": "fullstackopenpart3",
+  "version": "1.0.0",
+  "description": "Phone book backend",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheNipanen/FullStackOpenPart3.git"
+  },
+  "author": "Niilo Lappi",
+  "license": "UNLICENCED",
+  "bugs": {
+    "url": "https://github.com/TheNipanen/FullStackOpenPart3/issues"
+  },
+  "homepage": "https://github.com/TheNipanen/FullStackOpenPart3#readme"
+}
